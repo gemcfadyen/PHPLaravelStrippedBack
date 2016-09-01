@@ -9,5 +9,4 @@
     public function people() {
       return '{"1":"John","2":"Mary","3":"Steven"}';
     }
-
   }
